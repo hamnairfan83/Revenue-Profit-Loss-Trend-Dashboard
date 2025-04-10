@@ -1,38 +1,60 @@
-                                                📊 Revenue, Profit & Loss Trend Dashboard (Tableau)
+# 📊 **Revenue, Profit & Loss Trend Dashboard (Tableau)**
 
-                                                
-This interactive dashboard, built using Tableau, analyzes revenue, profit, loss, and expense trends for a product-based company. It provides a high-level financial snapshot and identifies patterns for better strategic decision-making.
+---
 
-📈 Key Insights
-Quarterly Revenue & Profit Trends
-Revenue and profit increase in early quarters but drop in Q3, signaling mid-year performance issues.
+## 📌 Project Overview
 
-Years with Higher Losses
-Highest losses occurred in 2025 and 2027 (~$3.7M+).
-A notable improvement in 2028 shows effective cost control and recovery.
+This interactive dashboard, built using **Tableau**, analyzes revenue, profit, loss, and expense trends for a product-based company. It provides a high-level financial snapshot and identifies patterns to support better strategic decision-making.
 
-Monthly Expense Trend
-Expenses peak in January and May, possibly due to seasonal investments or operational surges.
-A decline in the second half of the year indicates improved financial discipline.
+---
 
-✅ Recommendations
-Review Q3 Strategy
-➤ Investigate marketing, sales, or production issues causing revenue and profit dips.
+## 📈 Key Insights
 
-Audit High-Expense Months
-➤ January and May require budget analysis—plan spending to avoid unnecessary spikes.
+### 🔹 Quarterly Revenue & Profit Trends
+- Revenue and profit increase in early quarters but **drop in Q3**, signaling potential mid-year performance issues.
 
-Leverage 2028 Success
-➤ Apply the strategies that led to reduced losses in 2028 across other fiscal years.
+### 🔹 Years with Higher Losses
+- Highest losses occurred in **2025** and **2027** (~$3.7M+).
+- A notable improvement in **2028** shows effective **cost control and financial recovery**.
 
-Forecasting & Budget Optimization
-➤ Use Tableau’s forecasting capabilities to prepare for seasonal trends and adjust resource allocation accordingly.
+### 🔹 Monthly Expense Trend
+- Expenses **peak in January and May**, possibly due to seasonal investments or operational surges.
+- A **decline in the second half** of the year indicates improved financial discipline.
 
-🛠 Tools & Techniques
-Tool Used: Tableau
+---
 
-Techniques:
-Time series line charts for trends
-Year-over-year bar comparisons
-Expense heatmap insights
-Data cleaning done prior to Tableau in Excel
+## ✅ Recommendations
+
+### 1. **Review Q3 Strategy**
+- ➤ Investigate marketing, sales, or production issues causing revenue and profit dips.
+
+### 2. **Audit High-Expense Months**
+- ➤ Analyze budgets for **January and May** to better plan and avoid unnecessary spikes.
+
+### 3. **Leverage 2028 Success**
+- ➤ Apply strategies from 2028 that led to reduced losses across future fiscal years.
+
+### 4. **Forecasting & Budget Optimization**
+- ➤ Use Tableau’s **forecasting tools** to plan for seasonal trends and optimize resource allocation.
+
+---
+
+## 🛠 Tools & Techniques
+
+- **Tool Used:** Tableau  
+- **Preprocessing:** Data cleaning and formatting in Excel  
+
+**Visualization Techniques:**
+- 📉 Time Series Line Charts (Trends Over Time)  
+- 📊 Year-Over-Year Bar Comparisons  
+- 🔥 Expense Heatmap Insights  
+
+---
+
+## ✅ Outcome
+
+This dashboard enables stakeholders to:
+- Monitor financial performance trends
+- Identify critical loss periods
+- Improve budget planning and forecasting
+- Drive informed, data-backed business decisions
